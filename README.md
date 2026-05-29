@@ -33,7 +33,7 @@
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 | Concept | Programs |
 |---|---|
